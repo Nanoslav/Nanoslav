@@ -1,4 +1,9 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanoslav)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nanoslav&count_private=true&theme=dark" />
+  <img src="https://github-readme-stats-ashy-seven.vercel.app/api/top-langs/?username=Nanoslav&count_private=true&layout=compact&theme=dark" />
+</p>
 
 <!--
 **Nanoslav/Nanoslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
