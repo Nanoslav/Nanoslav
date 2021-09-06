@@ -4,7 +4,7 @@ sleepy time 😴
 
 ### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nanoslav&count_private=true&theme=dark" />
+  <img src="https://github-readme-stats-ashy-seven.vercel.app/api?username=Nanoslav&count_private=true&theme=dark" />
   <img src="https://github-readme-stats-ashy-seven.vercel.app/api/top-langs/?username=Nanoslav&count_private=true&layout=compact&theme=dark" />
 </p>
 
