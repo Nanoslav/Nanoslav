@@ -1,12 +1,15 @@
 ### About me
 
-sleepy time 😴
+💡 Currently studying information technology
 
 ### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats-ashy-seven.vercel.app/api?username=Nanoslav&count_private=true&theme=dark" />
-  <img src="https://github-readme-stats-ashy-seven.vercel.app/api/top-langs/?username=Nanoslav&count_private=true&layout=compact&theme=dark" />
+  <img height="200px" src="https://github-readme-stats-ashy-seven.vercel.app/api?username=Nanoslav&count_private=true&theme=dark&show_icons=true" />
+  <img height="200px" src="https://github-readme-stats-ashy-seven.vercel.app/api/top-langs?username=Nanoslav&count_private=true&layout=compact&theme=dark" />
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **Nanoslav/Nanoslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
