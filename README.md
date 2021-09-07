@@ -1,8 +1,8 @@
 ### 👋 About me
 
 - ✨Pronouns: He/Him
-- 💡 Currently studying information technology
-- 
+- 📚 Currently studying information technology
+- 💡 Learning: Javascript, C++
 
 ### 📊 Stats
 <p align="center">
