@@ -2,7 +2,7 @@
 
 - ✨Pronouns: He/Him
 - 📚 IT student
-- 💡 Learning: Javascript
+- 💡 Learning: Javascript, C++
 
 ### 📊 Stats
 <p align="center">
