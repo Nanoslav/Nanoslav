@@ -16,7 +16,7 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_PROJECTS: false
           SHOW_LOC_CHART: false
-          SHOW_EDITORS: false
-          SHOW_OS: false
+          SHOW_EDITORS: true
+          SHOW_OS: true
           SHOW_PROFILE_VIEWS: false
           SHOW_SHORT_INFO: false
