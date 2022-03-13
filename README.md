@@ -11,9 +11,6 @@
   <img height="137px" src="https://github-readme-stats-ashy-seven.vercel.app/api/top-langs?username=Nanoslav&count_private=true&layout=compact&theme=dark" />
 </p>
 
-### 🎧 Now playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g509347fts6blldcmm8uxhzib&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=g509347fts6blldcmm8uxhzib&redirect=true)
-
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
