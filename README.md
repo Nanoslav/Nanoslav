@@ -3,6 +3,7 @@
 - ✨Pronouns: He/Him
 - 📚 IT student
 - 💡 Learning: Javascript, C++
+- 🤖 Discord bot developer at @Fluffici
 
 ### 📊 Stats
 <p align="center">
