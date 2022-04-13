@@ -3,7 +3,9 @@
 - ✨ He/Him
 - 📚 IT student
 - 💡 Learning: Javascript, C++, SQL
-- 🔨 Head developer at [Fluffici](https://fluffici.eu), Developer at [FurRaidDB](https://furraiddb.xyz)
+- 🔨 **Work**
+  - Head developer at [Fluffici](https://fluffici.eu)
+  - Developer at [FurRaidDB](https://furraiddb.xyz)
 
 ### 📊 Stats
 <p align="center">
