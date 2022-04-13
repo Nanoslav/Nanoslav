@@ -1,9 +1,9 @@
 ### 👋 About me
 
-- ✨Pronouns: He/Him
+- ✨ He/Him
 - 📚 IT student
 - 💡 Learning: Javascript, C++, SQL
-- 🤖 Discord bot developer at [Fluffici](https://fluffici.eu)
+- 🔨 Head developer at [Fluffici](https://fluffici.eu), Developer at [FurRaidDB](https://furraiddb.xyz)
 
 ### 📊 Stats
 <p align="center">
