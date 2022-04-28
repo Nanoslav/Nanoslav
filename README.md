@@ -7,12 +7,6 @@
   - Head developer at [Fluffici](https://fluffici.eu)
   - Developer at [FurRaidDB](https://furraiddb.xyz)
 
-### 📊 Stats
-<p align="center">
-  <img height="137px" src="https://github-readme-stats-ashy-seven.vercel.app/api?username=Nanoslav&count_private=true&theme=dark&show_icons=true" />
-  <img height="137px" src="https://github-readme-stats-ashy-seven.vercel.app/api/top-langs?username=Nanoslav&count_private=true&layout=compact&theme=dark" />
-</p>
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs-blue)
 
