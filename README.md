@@ -8,6 +8,8 @@
   - Developer at [FurRaidDB](https://furraiddb.xyz)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -37,14 +39,13 @@ Sunday       90 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-JavaScript               0 secs              ████████████░░░░░░░░░░░░░   50.14% 
-Dart                     0 secs              ████████████░░░░░░░░░░░░░   49.86%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -61,7 +62,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2022 18:14:35 UTC
+ Last Updated on 07/05/2022 18:13:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
