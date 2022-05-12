@@ -8,7 +8,7 @@
   - Developer at [FurRaidDB](https://furraiddb.xyz)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm a Night 🦉** 
 
@@ -66,7 +66,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2022 18:14:30 UTC
+ Last Updated on 12/05/2022 18:16:21 UTC
 <!--END_SECTION:waka-->
 
 <!--
