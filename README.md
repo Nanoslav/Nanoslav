@@ -8,7 +8,7 @@
   - Developer at [FurRaidDB](https://furraiddb.xyz)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+[![wakatime](https://wakatime.com/badge/user/826f5da1-fc3e-404e-a5ef-d13bb1fb2a87.svg)](https://wakatime.com/@826f5da1-fc3e-404e-a5ef-d13bb1fb2a87)
 
 **I'm a Night 🦉** 
 
