@@ -1,4 +1,4 @@
-### 👋 About me
+# 👋 About me
 
 - ✨ He/Him
 - 📚 IT student
@@ -7,6 +7,9 @@
   - Head developer at [Fluffici](https://fluffici.eu)
   - Developer at [FurRaidDB](https://furraiddb.xyz)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g509347fts6blldcmm8uxhzib&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=g509347fts6blldcmm8uxhzib&redirect=true)
+
+# 📊 Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2031%20mins-blue)
 
