@@ -6,18 +6,14 @@
   - Head developer at [Fluffici](https://fluffici.eu)
   - Developer at [FurRaidDB](https://furraiddb.xyz)
 
-## 💡 Skills
+### 💡 Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-## 📚 Learning
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-# 📊 Stats
+## 📊 Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2029%20mins-blue)
 
