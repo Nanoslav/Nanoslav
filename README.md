@@ -21,6 +21,18 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-433%20Thousand%20lines%20of%20code-blue)
 
+**🐱 My GitHub Data** 
+
+> 🏆 202 Contributions in the Year 2022
+ > 
+> 📦 252.4 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 25 Private Repositories  
+ > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -54,7 +66,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/06/2022 21:09:41 UTC
+ Last Updated on 27/06/2022 21:20:10 UTC
 <!--END_SECTION:waka-->
 
 <!--
