@@ -15,19 +15,19 @@
 
 ## 📊 Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-433%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 206 Contributions in the Year 2022
+> 🏆 205 Contributions in the Year 2022
  > 
-> 📦 252.5 kB Used in GitHub's Storage 
+> 📦 252.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 25 Private Repositories  
  > 
@@ -64,7 +64,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2022 11:25:30 UTC
+ Last Updated on 29/06/2022 12:49:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
