@@ -31,19 +31,3 @@ const aboutMe = {
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
-
--------
-
-**📊 Stats**
-<!--START_SECTION:waka-->
-
-```text
-JavaScript      15 hrs 21 mins  ████████████████████░░░░░   80.13 %
-JSON            1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-PHP             48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-Markdown        46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-Bash            20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-SQL             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-```
-
-<!--END_SECTION:waka-->
