@@ -1,21 +1,5 @@
 <h1>👋</h1>
-
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2058%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-433%20Thousand%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Prague
-
-```
-
-
- Last Updated on 30/06/2022 13:21:42 UTC
-<!--END_SECTION:waka-->
+<img src="https://wakatime.com/badge/user/826f5da1-fc3e-404e-a5ef-d13bb1fb2a87.svg">
 
 ```javascript
 const aboutMe = {
