@@ -33,22 +33,10 @@ const aboutMe = {
 
 ## 📊 Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-433%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 218 Contributions in the Year 2022
- > 
-> 📦 252.5 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 4 Public Repositories 
- > 
-> 🔑 25 Private Repositories  
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -61,28 +49,10 @@ PHP                      48 mins             █░░░░░░░░░░�
 Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.02% 
 Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76%
 
-🔥 Editors: 
-VS Code                  19 hrs 10 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  19 hrs 10 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               9 repos             █████████░░░░░░░░░░░░░░░░   39.13% 
-PHP                      6 repos             ██████░░░░░░░░░░░░░░░░░░░   26.09% 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
-
 ```
 
 
-
- Last Updated on 30/06/2022 11:24:46 UTC
+ Last Updated on 30/06/2022 13:10:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
