@@ -1,7 +1,6 @@
 <h2>👋</h2>
 
 - ✨ He/Him
-- 💡 17yo
 - 📚 Studying IT
 - 🔨 Head developer at [Fluffici](https://fluffici.eu), Developer at [FurRaidDB](https://furraiddb.xyz)
 
