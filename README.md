@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/php-black.svg?style=for-the-badge&logo=php&logoColor=787CB5" />
 <img src="https://img.shields.io/badge/node.js-black.svg?style=for-the-badge&logo=node.js&logoColor=68A063" />
 <img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=007acc" />
 <img src="https://img.shields.io/badge/MongoDB-black.svg?style=for-the-badge&logo=mongodb&logoColor=3FA037" />
 <img src="https://img.shields.io/badge/NPM-black.svg?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7" />
