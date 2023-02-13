@@ -6,7 +6,7 @@
 
 <img src="https://wakatime.com/badge/user/826f5da1-fc3e-404e-a5ef-d13bb1fb2a87.svg">
 <div align="center">
-<h2>🛠️ Tools</h2>
+<h2>🛠️ Tools & Technologies</h2>
 <img src="https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=e34c26" />
 <img src="https://img.shields.io/badge/css-black.svg?style=for-the-badge&logo=css3&logoColor=264de4" />
 <img src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=00758f" />
