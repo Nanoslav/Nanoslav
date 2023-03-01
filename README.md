@@ -2,7 +2,6 @@
 
 - ✨ He/Him
 - 📚 Studying IT
-- 🔨 Head developer at [Fluffici](https://fluffici.eu), Developer at [FurRaidDB](https://frdb.fluffici.eu)
 
 <img src="https://wakatime.com/badge/user/826f5da1-fc3e-404e-a5ef-d13bb1fb2a87.svg">
 <div align="center">
